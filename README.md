@@ -14,7 +14,7 @@ study_timer/
 ├── study_timer.exe
 └── log
     └── study_log.txt
-
+```
 --- 
 
 ##  Features
