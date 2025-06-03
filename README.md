@@ -11,7 +11,6 @@ study_timer/
 ├── main.c
 ├── README.md
 ├── .gitignore
-├── study_timer.exe
 └── log
     └── study_log.txt
 ```
