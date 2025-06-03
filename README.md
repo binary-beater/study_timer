@@ -6,6 +6,7 @@ A minimal, efficient, and cross-platform C program for managing timed study and 
 
 ## Structure
 
+```text
 study_timer/
 ├── main.c
 ├── README.md
